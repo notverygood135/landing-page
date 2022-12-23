@@ -26,7 +26,8 @@
 }
 
 .logo-jp {
-    font-size: 3vw;
+    font-size: clamp(2.4rem, 3vw, 6rem);
+    
 }
 
 .logo-en {
